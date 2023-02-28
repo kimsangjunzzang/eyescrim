@@ -1,0 +1,29 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="paint0_linear" x1="1.17157" y1="13.8997" x2="23.9839" y2="13.8997" gradientUnits="userSpaceOnUse">
+<stop offset="0.00106246" stop-color="#6393E7"/>
+<stop offset="1" stop-color="#FF7CE8"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="18.9257" y1="7.94556" x2="6.66093" y2="7.94556" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7CE8"/>
+<stop offset="1" stop-color="#6393E7"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="18.3682" y1="12.8262" x2="6.66093" y2="12.8262" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7CE8"/>
+<stop offset="1" stop-color="#6393E7"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="18.9257" y1="18.2056" x2="6.66093" y2="18.2056" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7CE8"/>
+<stop offset="1" stop-color="#6393E7"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="15.6802" y1="21" x2="25.6802" y2="21" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6393E7"/>
+<stop offset="1" stop-color="#FF7CE8"/>
+</linearGradient>
+</defs>
+<path d="M19.6802 25.5778H12.5755H4.49754C3.12612 25.5778 2 24.4953 2 23.153V5.2812C2 3.59253 3.41602 2.21777 5.15538 2.21777H19.9845C21.7239 2.21777 23.1399 3.59253 23.1399 5.2812V14.2171V15.3341" stroke="url(#paint0_linear)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.85791 8.06299H18.7247" stroke="url(#paint1_linear)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.85791 13.0537H18.7247" stroke="url(#paint2_linear)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5.85791 18.0332H12.3025" stroke="url(#paint3_linear)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.8583 16.0005C21.845 16.0201 20.9628 16.5634 20.4638 17.3711C19.9345 16.583 19.0321 16.0739 18.0138 16.0935C16.4158 16.1229 15.1505 17.4543 15.1807 19.0648C15.2563 22.8781 20.6301 25.9278 20.6301 25.9278C20.6301 25.9278 25.8779 22.6774 25.8023 18.8641C25.7721 17.2536 24.4513 15.9711 22.8583 16.0005Z" stroke="url(#paint4_linear)" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
